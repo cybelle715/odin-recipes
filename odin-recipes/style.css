@@ -1,0 +1,26 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  }
+
+  footer {
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  .dark-bckgrd {
+    background-color: #1f2937;
+  }
+  .dark-bckgrd .hero-sec {
+    font-size: 18px;
+    color: #e5e7eb;
+  }
+  img {
+    display: flex;
+    max-width: 100%;
+    height: autopx;
+    justify-content: center;
+  }
